@@ -63,7 +63,7 @@ st.markdown(
 )
 
 
-st.title("Advanced Data Sweeper") 
+st.title("Data Sweeper") 
 st.write("Transform your files between CSV and Excel formats with built-in data cleaning and visualization.")
 
 
